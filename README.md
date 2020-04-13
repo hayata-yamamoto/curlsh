@@ -1,4 +1,5 @@
 # curlsh
+[![dockeri.co](https://dockeri.co/image/hayata/curlsh)](https://hub.docker.com/r/hayata/curlsh)
 
 Docker image to use cURL on several shell.
 
