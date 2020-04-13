@@ -13,6 +13,6 @@ docker run -it curlsh
 ## TODO:
 
 - [x] bash
-- [ ] zsh
+- [x] zsh
 - [ ] fish
 - [ ] xonsh
