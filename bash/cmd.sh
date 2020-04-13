@@ -5,7 +5,7 @@ function cmd () {
 }
 
 function curl_cmd () {
-  CODE=$(curl -X GET -s -o /dev/null -w '%{http_code}\n' "https://github.com/hayata-yamamoto/curlsh")
+  CODE=$(curl -X GET -s -o /dev/null -w '%{http_code}\n' "http://example.com")
   echo $CODE
   return 0
 }
